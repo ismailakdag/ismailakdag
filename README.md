@@ -29,8 +29,6 @@ I'm İsmail, a PhD Electrical & Electronics Engineer and researcher in İzmir. I
 
 **[Contextractor](https://github.com/ismailakdag/contextractor)** — Search and export local AI sessions from one private, on-device archive.
 
-Also: [Clockin](https://github.com/ismailakdag/clockin), a separate native time-tracking app for Mac and iPhone.
-
 <details>
 <summary>A look inside Fairbeam</summary>
 
