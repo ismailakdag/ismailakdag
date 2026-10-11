@@ -2,9 +2,9 @@
   <img src="assets/signal-header.svg" width="100%" alt="İsmail Akdağ — software, signals and a little curiosity. An animated, illustrative signal field." />
 </p>
 
-I'm İsmail, an electrical engineer and researcher in İzmir. I build scientific software, tools for working with AI, and small native apps that make everyday work a little better.
+I'm İsmail, a PhD Electrical & Electronics Engineer and researcher in İzmir. I build scientific software, tools for working with AI, and small native apps that make everyday work a little better.
 
-**[Research & teaching ↗](https://www.ismailakdag.com) · [Software & projects ↗](https://akdag.dev)**
+**[Research & teaching](https://www.ismailakdag.com) · [Software & projects](https://akdag.dev)**
 
 ### What I'm building
 
@@ -23,21 +23,13 @@ I'm İsmail, an electrical engineer and researcher in İzmir. I build scientific
       <a href="https://github.com/ismailakdag/cst-studio-mcp">Code & setup</a> · <a href="https://cst-mcp.akdag.dev">Project</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ismailakdag/contextractor"><img src="assets/contextractor.svg" width="100%" alt="Contextractor — keep the context" /></a>
-      Search and export local AI sessions from one <strong>private, on-device archive</strong>.
-      <br /><br />
-      <a href="https://github.com/ismailakdag/contextractor">Code & setup</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ismailakdag/clockin"><img src="assets/clockin.svg" width="100%" alt="Clockin — make time visible" /></a>
-      Native time and live earnings tracking for <strong>Mac and iPhone</strong>, with a focus companion.
-      <br /><br />
-      <a href="https://getclockin.netlify.app">Explore</a> · <a href="https://github.com/ismailakdag/clockin">Code</a>
-    </td>
-  </tr>
 </table>
+
+<a href="https://github.com/ismailakdag/contextractor"><img src="assets/contextractor.svg" width="440" alt="Contextractor — keep the context" /></a>
+
+**[Contextractor](https://github.com/ismailakdag/contextractor)** — Search and export local AI sessions from one private, on-device archive.
+
+Also: [Clockin](https://github.com/ismailakdag/clockin), a separate native time-tracking app for Mac and iPhone.
 
 <details>
 <summary>A look inside Fairbeam</summary>
